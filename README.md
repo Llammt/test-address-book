@@ -5,7 +5,7 @@ The main goal of this development is show to owners of projects how the candidat
 
 # Project address book
 
-The simple task save and maintenance the contacts.
+The simple task for save and maintenance the user contacts.
 
 Contact:
 - first name
